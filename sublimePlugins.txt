@@ -1,0 +1,39 @@
+package control
+
+emmet
+
+Sublime Enhancement
+
+SideBarEnhancements 
+
+Live Reload
+
+Sublime Linter
+
+ApplySyntax
+
+GIT
+
+DocBlockr
+
+Alignment
+
+Terminal
+
+Tirmmer
+
+ConvertToUTF8
+
+PlanTasks
+
+Gosublime
+
+vintageous
+
+SublimeREPL
+
+SublimeCodeIntel
+
+
+
+
